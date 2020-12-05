@@ -1,0 +1,16 @@
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.exe
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.deps.json
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.runtimeconfig.json
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.runtimeconfig.dev.json
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.dll
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ref\ETAPA1.dll
+C:\Users\cloun\Documents\paul\ETAPA1\bin\Debug\net5.0\ETAPA1.pdb
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.csprojAssemblyReference.cache
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.AssemblyInfoInputs.cache
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.AssemblyInfo.cs
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.csproj.CoreCompileInputs.cache
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.dll
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ref\ETAPA1.dll
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.pdb
+C:\Users\cloun\Documents\paul\ETAPA1\obj\Debug\net5.0\ETAPA1.genruntimeconfig.cache
